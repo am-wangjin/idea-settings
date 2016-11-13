@@ -1,4 +1,10 @@
 <code_scheme name="am">
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="SPACE_BEFORE_CLASS_LBRACE" value="false" />
     <option name="SPACE_BEFORE_METHOD_LBRACE" value="false" />
@@ -12,6 +18,12 @@
     <option name="SPACE_BEFORE_CATCH_LBRACE" value="false" />
     <option name="SPACE_BEFORE_FINALLY_LBRACE" value="false" />
     <option name="SPACE_BEFORE_SYNCHRONIZED_LBRACE" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSP">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
